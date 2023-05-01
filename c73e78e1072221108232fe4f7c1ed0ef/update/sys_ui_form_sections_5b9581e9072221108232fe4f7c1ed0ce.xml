@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="5b9581e9072221108232fe4f7c1ed0ce" sys_domain="global" table="x_1049355_innovate_innovate" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 15:37:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af9581e9072221108232fe4f7c1ed0d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1049355_innovate_innovate" name="x_1049355_innovate_innovate" sys_domain="global" view="Default view">5b9581e9072221108232fe4f7c1ed0ce</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1049355_innovate_innovate" sys_domain="global" view="Default view">c42289e5072221108232fe4f7c1ed071</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 15:37:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 15:37:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab9581e9072221108232fe4f7c1ed0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1049355_innovate_innovate" name="x_1049355_innovate_innovate" sys_domain="global" view="Default view">5b9581e9072221108232fe4f7c1ed0ce</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1049355_innovate_innovate" sys_domain="global" view="Default view">139581e9072221108232fe4f7c1ed0cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 15:37:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 15:37:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f9581e9072221108232fe4f7c1ed0fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1049355_innovate_innovate" name="x_1049355_innovate_innovate" sys_domain="global" view="Default view">5b9581e9072221108232fe4f7c1ed0ce</sys_ui_form>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_1049355_innovate_innovate" sys_domain="global" view="Default view">9b9581e9072221108232fe4f7c1ed0cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 15:37:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1049355_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 15:37:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b9581e9072221108232fe4f7c1ed0ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1049355_innovate_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_1049355_innovate">c73e78e1072221108232fe4f7c1ed0ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">c73e78e1072221108232fe4f7c1ed0ef</sys_scope>
+            <sys_update_name>sys_ui_form_sections_5b9581e9072221108232fe4f7c1ed0ce</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 15:37:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
